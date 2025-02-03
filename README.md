@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm **Aarsh Zadaphiya**, a passionate UX designer,
 
 ### 📂 Current Projects
 Here are some projects I am currently working on that I highlight:
-- **MQP Project**: ##Augmented Reality Glasses## - Designing a solution to help professors in their teaching process (Time managemnet, Student Engagement, Activ Recall)
+- **MQP Project**: *Augmented Reality Glasses* - Designing a solution to help professors in their teaching process (Time managemnet, Student Engagement, Activ Recall)
 - **CS Grad Course Project**: Using Kotlin to create an app that relies on Mobile And Ubiquitous Computing
 
 ### 🌐 Find Me Online
